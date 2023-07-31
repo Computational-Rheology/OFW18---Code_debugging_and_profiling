@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "myLaplacianFoam.C": "cpp",
+        "objectRegistry.C": "cpp",
+        "func1.C": "cpp",
+        "func2.C": "cpp"
+    }
+}
